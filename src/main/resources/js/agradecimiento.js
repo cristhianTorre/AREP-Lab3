@@ -1,0 +1,1 @@
+alert("Gracias por visitar esta pagina web! Aqui te dejo otro espectacular fondo de pantalla, que lo disfrutes!");
